@@ -1,0 +1,26 @@
+_id: env_5effb1139ae04af8a4ada53df4d5021b
+type: Environment
+parentId: env_3a4a143933bebebc490fcbe37f5b282a90f3fd4e
+modified: 1671541679975
+created: 1671541181233
+name: Local
+data:
+  admin_dealers_api: http://localhost:8082
+  admin_gmf_worker: http://localhost:8084
+  gmf_dealer_api: http://localhost:8097
+  gmf_insurance_api: http://localhost:8083
+  gmf_locale_api: http://localhost:8099
+  gmf_user_api: http://localhost:8083
+  gmf_vehicle_api: http://localhost:8092
+dataPropertyOrder:
+  "&":
+    - admin_dealers_api
+    - admin_gmf_worker
+    - gmf_dealer_api
+    - gmf_insurance_api
+    - gmf_locale_api
+    - gmf_user_api
+    - gmf_vehicle_api
+color: null
+isPrivate: false
+metaSortKey: 1671541181233
